@@ -1,0 +1,8 @@
+{
+  "name": "Logging Intelligence Recorder",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
