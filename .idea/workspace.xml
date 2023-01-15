@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06f48bab-5671-406d-af81-73df576aeae0" name="Changes" comment="Git init">
-      <change afterPath="$PROJECT_DIR$/commands/log.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commands/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events/interactionCreate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events/ready.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events/voiceStateUpdate.js" afterDir="false" />
+    <list default="true" id="06f48bab-5671-406d-af81-73df576aeae0" name="Changes" comment="Don't care enough to write a proper message here">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events/voiceStateUpdate.js" beforeDir="false" afterPath="$PROJECT_DIR$/events/voiceStateUpdate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,13 +51,32 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.database.main",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb",
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\krist\IdeaProjects\Logging Intelligence Recorder\commands" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -68,7 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673544348679</updated>
       <workItem from="1673544349822" duration="126000" />
-      <workItem from="1673544484086" duration="7352000" />
+      <workItem from="1673544484086" duration="8118000" />
+      <workItem from="1673807785539" duration="2387000" />
     </task>
     <task id="LOCAL−00001" summary="Git init">
       <created>1673544660925</created>
@@ -100,7 +120,19 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1673545061794</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Don't care enough to write a proper message here">
+      <created>1673552439343</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1673552439343</updated>
+    </task>
+    <task id="LOCAL−00007" summary="Don't care enough to write a proper message here">
+      <created>1673552512525</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1673552512525</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +141,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Git init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git init" />
+    <MESSAGE value="Don't care enough to write a proper message here" />
+    <option name="LAST_COMMIT_MESSAGE" value="Don't care enough to write a proper message here" />
   </component>
 </project>

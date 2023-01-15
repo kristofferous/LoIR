@@ -46,3 +46,5 @@ for (const file of eventFiles) {
 })();
 
 client.login(process.env.SECRET_KEY);
+
+module.exports = client
